@@ -1,2 +1,13 @@
-# Snake-Water-Gun-Game-
-Python project showcasing Snake-Water-Gun game logic with beginner-friendly and improved versions.
+# 🐍💧🔫 Snake Water Gun Game
+
+A simple Python project based on the classic **Snake-Water-Gun** game.  
+I created two versions to show my learning progress:  
+
+## Versions
+- **simple_version.py** → Basic implementation of the game  
+- **improved_version.py** → Enhanced version with better logic and structure  
+
+## How to Run
+```bash
+python simple_version.py
+python improved_version.py
