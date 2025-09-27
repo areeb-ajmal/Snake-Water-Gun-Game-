@@ -9,5 +9,6 @@ I created two versions to show my learning progress:
 
 ## How to Run
 ```bash
-python simple_version.py
-python improved_version.py
+project1 improved version.py
+project1.py
+
